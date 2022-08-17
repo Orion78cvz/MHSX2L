@@ -4,7 +4,7 @@ MHSX2L
 
 ## Overview
 
-[MHSX2](https://github.com/KKyang/MHSX2 "MHSX2")のjavaによる実装
+[MHSX2](https://github.com/KKyang/MHSX2 "MHSX2")の探索部分をjavaに移植したもの
 
 ## Requirement
 
